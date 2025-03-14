@@ -1,0 +1,113 @@
+baseURL: https://lokapal-xyz.github.io/education/
+languageCode: en-us
+title: Lokapal Education | HowToDAO
+theme: ["PaperMod"]
+
+# How many posts per page 
+pagination:
+  disableAliases: false
+  pagerSize: 4
+  path: page
+
+
+params:
+  profileMode:
+    enabled: true
+    title: "Lokapal Education" # optional default will be site title
+    subtitle: "Empowering Communities Through Practical DAO Knowledge" # optional
+    imageUrl: "img/LokapalEducation.png" # optional
+    imageTitle: "Lokapal Education" # optional
+    imageWidth: 240 # custom size
+    imageHeight: 240 # custom size
+    buttons:
+      - name: 🔹HowToDAO
+        url: "howtodao"
+      - name: 🔸Homepage
+        url: "https://lokapal-xyz.github.io/"
+
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/ricardo-mauro-pintos/"
+    - name: "x"
+      url: "https://x.com/lokapalxyz"
+    - name: "substack"
+      url: "https://substack.com/@lokapal"
+    - name: "github"
+      url: "https://github.com/lokapal-xyz"
+    - name: "telegram"
+      url: "https://t.me/lokapalxyz"
+
+  # defaultTheme: light
+  # defaultTheme: dark
+  defaultTheme: dark # to switch between dark or light according to browser theme
+  disableThemeToggle: true
+  
+  # To show share buttons on posts
+  ShowShareButtons: true
+
+  # To show reading time on posts
+  ShowReadingTime: true
+
+  # To show breadcrumbs on posts
+  ShowBreadCrumbs: true
+  
+  # To show post navigation links on posts
+  ShowPostNavLinks: true
+
+  # To show code copy buttons on code blocks
+  ShowCodeCopyButtons: true
+
+  # Enable Social-Metadata and SEO
+  env: production
+
+
+  # ICONS
+  assets:
+    favicon: "img/favicon.png"
+    favicon: "img/favicon-16x16.png"
+    favicon: "img/favicon-32x32.png"
+    favicon: "img/favicon.ico"
+    apple_touch_icon: "img/apple-touch-icon.png"
+
+  # search options https://www.fusejs.io/api/options.html
+  fuseOpts:
+    location: 0
+    distance: 100
+    threshold: 0.1
+    minMatchCharLength: 3
+    #includeScore: true
+
+
+# To use short code emojis
+enableEmoji: true
+
+# necessary for search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
+
+# Add menu to site. You can add menu entries which will appear in the header of every page.
+# name controls what will be displayed for the menu entry. 
+# url sets the URL that the entry points to. weight is used to control the positioning of entries.
+# For more information on menus, see the Hugo wiki page.
+menu:
+  main:
+    - identifier: categories
+      name: 📂Categories
+      url: /categories/
+      weight: 1
+    - identifier: search
+      name: 💬Search
+      url: /search/
+      weight: 2
+    - identifier: about
+      name: 🪧About
+      url: /about/
+      weight: 3
+    - identifier: contact
+      name: 🖱️Contact
+      url: /contact/
+      weight: 4
+

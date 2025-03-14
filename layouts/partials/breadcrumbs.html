@@ -1,0 +1,49 @@
+{{- if .Params.ShowBreadCrumbs | default .Site.Params.ShowBreadCrumbs }}
+<div class="breadcrumbs">
+    <!-- Home link always appears first -->
+    <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
+    
+    <!-- Generate breadcrumb segments based on URL path -->
+    {{- $url := replace .RelPermalink "//" "/" -}}
+    {{- $url = strings.TrimPrefix "/" $url -}}
+    {{- $url = strings.TrimSuffix "/" $url -}}
+    {{- $urlParts := split $url "/" -}}
+    
+    {{- $totalParts := (len $urlParts) -}}
+    
+    {{- $currentPath := "" -}}
+    
+    {{- range $index, $part := $urlParts -}}
+        {{- if ne $part "" -}}
+            <!-- Build the current path -->
+            {{- $currentPath = printf "%s/%s" $currentPath $part -}}
+            
+            <!-- Try to get the page at this path -->
+            {{- $pageAtPath := $.Site.GetPage $currentPath -}}
+            
+            <!-- Prepare title - first try to get from page, then format URL segment -->
+            {{- $title := "" -}}
+            
+            {{- if $pageAtPath -}}
+                <!-- Use page title if available -->
+                {{- $title = $pageAtPath.Title -}}
+            {{- else -}}
+                <!-- Fall back to formatting the URL segment -->
+                <!-- Replace hyphens with spaces and preserve capitalization -->
+                {{- $title = $part | replaceRE "-" " " | replaceRE "([a-z])([A-Z])" "$1 $2" -}}
+                
+                <!-- Special case handling for abbreviations like DAO -->
+                {{- $title = replace $title "dao" "DAO" -}}
+                {{- $title = replace $title "Dao" "DAO" -}}
+            {{- end -}}
+            
+            <!-- Don't make the last part a link, since we're already there -->
+            {{- if eq (add $index 1) $totalParts -}}
+                » <span class="breadcrumb-last">{{ $title }}</span>
+            {{- else -}}
+                » <a href="{{ $currentPath | absLangURL }}">{{ $title }}</a>
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+</div>
+{{- end }}
