@@ -1,6 +1,7 @@
+/* Breadcrumbs */
 .breadcrumbs {
     color: var(--secondary);
-    font-size: 14px;
+    font-size: 20px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -8,20 +9,18 @@
 }
 
 .breadcrumbs a {
-    font-size: 16px;
-    color: var(--primary);
+    font-size: 20px;
+    color: gold;
     margin: 0 3px;
 }
 
 .breadcrumbs a:hover {
     text-decoration: underline;
-
 }
 
 .breadcrumbs-last {
     font-weight: 500;
 }
-
 
 
 /* Hover effect for main buttons (HowToDAO, Lokapal, Conciliatorics) */

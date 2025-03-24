@@ -14,17 +14,17 @@ title: 'Support'
 ### Contribute to the Repository
 - Improve documentation or submit educational examples.  
 - Share insights on real-world DAO implementations.  
-- Open a [discussion](https://github.com/lokapal-xyz/howtodao/discussions) for governance/security topics.  
+- Open a [**discussion**](https://github.com/lokapal-xyz/education/discussions) for governance/security topics.  
 
 ### Collaboration & Sponsorships
 We welcome collaborations with **educational institutions, research initiatives, and DAO-focused organizations**. If you’re interested in supporting or co-developing content, please reach out:
 
-🔹[**Contact**](/education/contact)  
+🔹[**Contact Page**](../contact/)  
 
 ## Why Support HowToDAO?
 Your contributions help:  
-- Educate developers and communities on **secure DAO governance**.  
-- Build **open-source knowledge** to reduce governance vulnerabilities.  
+- Educate developers and communities on **holistic DAO governance**.  
+- Build **open-source knowledge** to improve governance implementation.  
 - Strengthen the **security culture** in decentralized ecosystems.  
 
 Thank you for being part of the **HowToDAO** mission!   

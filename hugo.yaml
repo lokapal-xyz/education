@@ -6,7 +6,7 @@ theme: ["PaperMod"]
 # How many posts per page 
 pagination:
   disableAliases: false
-  pagerSize: 4
+  pagerSize: 9
   path: page
 
 
@@ -72,8 +72,8 @@ params:
   # search options https://www.fusejs.io/api/options.html
   fuseOpts:
     location: 0
-    distance: 100
-    threshold: 0.1
+    distance: 10
+    threshold: 0
     minMatchCharLength: 3
     #includeScore: true
 
@@ -94,20 +94,16 @@ outputs:
 # For more information on menus, see the Hugo wiki page.
 menu:
   main:
-    - identifier: categories
-      name: 📂Categories
-      url: /categories/
-      weight: 1
     - identifier: search
       name: 💬Search
       url: /search/
-      weight: 2
+      weight: 1
     - identifier: about
       name: 🪧About
       url: /about/
-      weight: 3
+      weight: 2
     - identifier: contact
       name: 🖱️Contact
       url: /contact/
-      weight: 4
+      weight: 3
 
