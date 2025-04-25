@@ -1,12 +1,12 @@
 ---
 date: '2025-03-09T16:55:19-03:00'
 draft: false
-title: 'Contact'
+title: 'Connect with Lokapal'
 ---
 
-If you have any questions, feel free to reach out!
+Whether you’re exploring ideas, building a project, or simply curious about DAOs, feel free to reach out. Lokapal welcomes collaboration, questions, and conversations of all kinds.
 
-If you're building, refining, or securing a DAO, Lokapal provides governance and strategic consulting to help you succeed. Let's discuss how we can structure your DAO for long-term success.
+Let’s see where our paths might align.
 
 📧 Email: lokapal@proton.me
 
