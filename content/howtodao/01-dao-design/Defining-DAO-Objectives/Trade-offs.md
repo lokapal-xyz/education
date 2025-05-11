@@ -17,12 +17,6 @@ One of the biggest challenges in designing a DAO is balancing decentralization, 
 
 **Example:** A protocol’s DAO might let token holders vote on proposals (decentralized), but a core team executes them (controlled). Striking the right balance depends on the DAO’s goals and risk tolerance.  
 
-### **Efficiency vs. Inclusivity**  
-- **Efficiency** demands quick decision-making, streamlined governance, and minimal bureaucratic hurdles.  
-- **Inclusivity** ensures that a diverse range of stakeholders have a voice, but this can lead to prolonged discussions, voting delays, and governance fatigue.  
-
-**Example:** Some DAOs implement quorum requirements to prevent low-participation votes, while others delegate governance to smaller working groups for efficiency.  
-
 ### **Transparency vs. Privacy**  
 - **On-chain governance** offers full transparency, enhancing trust and accountability.  
 - **Privacy** is sometimes necessary for security (e.g., protecting sensitive financial strategies) or to prevent governance manipulation.  

@@ -5,7 +5,7 @@ title: 'Proposal Submission, Discussion, and Refinement'
 weight: 49_000
 ---
 
-A structured proposal process is essential for effective DAO governance. A well-defined system ensures that ideas are thoroughly vetted, refined through community input, and aligned with the DAO’s objectives before being put to a vote. Let's outline the key stages of a DAO proposal lifecycle, from submission to refinement.  
+A structured proposal process is essential for effective DAO governance. A well-defined system ensures that ideas are thoroughly vetted, refined through community input, and aligned with the DAO’s objectives before being put to a vote.
 
 ---
 

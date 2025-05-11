@@ -5,7 +5,7 @@ title: 'Modular vs. Monolithic Contract Design'
 weight: 15_000
 ---
 
-When designing the smart contract architecture of a Decentralized Autonomous Organization (DAO), one of the fundamental decisions is choosing between a modular or monolithic structure. This choice affects the DAO’s flexibility, maintainability, security, and upgradeability. In this article, we’ll explore the differences between these approaches and the trade-offs involved.  
+When designing the smart contract architecture of a DAO, one of the fundamental decisions is choosing between a modular or monolithic structure. This choice affects the DAO’s flexibility, maintainability, security, and upgradeability. 
 
 ---
 

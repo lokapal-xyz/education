@@ -5,7 +5,7 @@ title: 'Use Cases: Treasury Management, Working Groups, and Local Governance'
 weight: 27_000
 ---
 
-SubDAOs provide a flexible and scalable approach to DAO governance by decentralizing responsibilities into specialized units. This section explores three key use cases where SubDAOs enhance efficiency and autonomy:  
+This section explores three key use cases where SubDAOs enhance efficiency and autonomy:  
 
 - **Treasury Management** – Secure and strategic financial oversight.  
 - **Working Groups** – Task-specific governance for operational efficiency.  
@@ -78,6 +78,8 @@ DAOs with global communities may need localized governance structures to address
 SubDAOs provide a powerful framework for specialization and scalability in DAO ecosystems. Whether managing treasuries, coordinating workgroups, or decentralizing governance geographically, SubDAOs enable greater efficiency, autonomy, and adaptability.  
 
 By leveraging these use cases, DAOs can evolve into more dynamic, decentralized, and functional organizations while maintaining governance coherence.  
+
+---
 
 🔖 **You finished DAO Design!** 🔖
 

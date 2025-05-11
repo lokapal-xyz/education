@@ -5,7 +5,7 @@ title: 'Off-chain Signaling and Forum Discussions'
 weight: 111_000
 ---
 
-Before a proposal reaches on-chain voting, off-chain signaling plays a crucial role in gathering community feedback, refining proposals, and gauging sentiment. This section explores how DAOs use forums, surveys, and non-binding polls to facilitate structured discussions and consensus-building before committing to irreversible on-chain actions.  
+Before a proposal reaches on-chain voting, off-chain signaling plays a crucial role in gathering community feedback, refining proposals, and gauging sentiment. Let's explore how DAOs use forums, surveys, and non-binding polls to facilitate structured discussions and consensus-building before committing to irreversible on-chain actions.  
 
 ---
 
@@ -60,10 +60,4 @@ On-chain voting is often costly, final, and binding, making off-chain discussion
 - **Centralization Risks in Off-Chain Platforms:**  
   - Forums, Discord, and Twitter are centralized platforms, risking censorship or data loss.  
   - **Mitigation:** Use decentralized alternatives like Farcaster, Lens Protocol, or IPFS-based forums.  
-
----
-
-## **Final Thoughts**  
-
-Off-chain signaling is a critical governance tool that allows DAOs to refine proposals, gather community feedback, and align governance participants before committing to binding on-chain votes. By leveraging forums, Snapshot polls, social media discussions, and research surveys, DAOs can enhance decision-making transparency and efficiency while mitigating risks like sybil attacks, centralization, and governance manipulation.  
 

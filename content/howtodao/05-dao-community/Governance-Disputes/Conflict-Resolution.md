@@ -5,7 +5,7 @@ title: 'Conflict Resolution'
 weight: 88_000
 ---
 
-Disputes are inevitable in decentralized governance, but how a DAO resolves conflicts can determine its long-term success. Effective conflict resolution mechanisms help maintain trust, cooperation, and decision-making efficiency. Let's explore different dispute resolution methods, ranging from informal mediation to on-chain arbitration, and examines how DAOs can build fair and transparent systems for handling disagreements.  
+Disputes are inevitable in decentralized governance, but how a DAO resolves conflicts can determine its long-term success. Effective conflict resolution mechanisms help maintain trust, cooperation, and decision-making efficiency.
 
 ---
 
@@ -68,10 +68,6 @@ DAOs can implement multiple conflict resolution strategies, depending on their s
   - Balance automation and human decision-making for complex disputes.  
 
 ---
-
-## **Final Thoughts**  
-
-Effective conflict resolution ensures DAOs remain functional, fair, and inclusive. By implementing open discussions, governance votes, arbitration mechanisms, and trust-based resolution models, DAOs can prevent deadlocks, reduce governance manipulation, and strengthen community trust.  
 
 🔖 **You finished DAO Community!** 🔖
 

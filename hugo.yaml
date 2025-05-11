@@ -23,7 +23,7 @@ params:
       - name: 🔹HowToDAO
         url: "howtodao"
       - name: 🔸Homepage
-        url: "https://lokapal-xyz.github.io/"
+        url: "https://lokapal-xyz.github.io/en/"
 
   socialIcons: # optional
     - name: "linkedin"
@@ -31,7 +31,7 @@ params:
     - name: "x"
       url: "https://x.com/lokapalxyz"
     - name: "substack"
-      url: "https://substack.com/@lokapal"
+      url: "https://lokapal.substack.com/"
     - name: "github"
       url: "https://github.com/lokapal-xyz"
     - name: "telegram"

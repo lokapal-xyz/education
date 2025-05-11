@@ -5,23 +5,7 @@ title: 'Mitigating Risks of Key Compromises'
 weight: 35_000
 ---
 
-A compromised key can jeopardize DAO funds, governance, and operations. Let's explore strategies to prevent, detect, and recover from key-related security incidents.  
-
----
-
-## **Preventing Key Compromise**  
-
-### **Best Practices**  
-- Use hardware wallets for signing transactions.  
-- Store private keys in cold storage for critical operations.  
-- Require multisig approvals for high-risk actions.  
-- Implement role-based access control (RBAC) to limit key usage.  
-- Regularly update firmware and security patches for wallet devices.  
-
-### **Common Pitfalls to Avoid**  
-- Using a single signer for critical operations.  
-- Storing keys on hot wallets or online storage.  
-- Using the same private key for multiple roles.  
+A compromised key can jeopardize DAO funds, governance, and operations. Let's explore strategies to minimize, detect, and recover from key-related security incidents.  
 
 ---
 
@@ -59,7 +43,7 @@ A compromised key can jeopardize DAO funds, governance, and operations. Let's ex
 
 ### **Best Practices**  
 - Implement tiered access levels (limit high-privilege key usage).  
-- Use ephemeral keys that expire after a set period.  
+- Use keys that expire after a set period.  
 - Set up modular governance to isolate risks (e.g., subDAOs with independent control).  
 - Enable automated kill switches to revoke compromised permissions.  
 
@@ -71,7 +55,7 @@ A compromised key can jeopardize DAO funds, governance, and operations. Let's ex
 ---
 
 ## **Final Thoughts**  
-- **Prevent** key compromise with secure storage and access control.  
+- **Prevent** key compromise with secure storage and access control (see previous article).  
 - **Detect** issues early with monitoring and alerts.  
 - **Recover** quickly with backup multisigs and emergency procedures.  
 - **Minimize** impact using tiered access and kill switches.  

@@ -5,7 +5,7 @@ title: 'Trust Building Mechanisms'
 weight: 82_000
 ---
 
-Trust is the foundation of a healthy and resilient DAO. Without it, governance can become inefficient, participation may decline, and decision-making can be dominated by a small group. Let's explore practical mechanisms to build and maintain trust within a decentralized community, ensuring that members feel confident in the DAO’s processes and leadership.  
+Trust is the foundation of a healthy and resilient DAO. Without it, governance can become inefficient, participation may decline, and decision-making can be dominated by a small group.
 
 ---
 

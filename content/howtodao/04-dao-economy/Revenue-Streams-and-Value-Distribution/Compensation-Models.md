@@ -89,5 +89,7 @@ Some DAOs compensate contributors through revenue-sharing models, where a percen
 
 By implementing fair and adaptable compensation models, DAOs can attract top talent while maintaining decentralization, sustainability, and incentive alignment.  
 
+---
+
 🔖 **You finished DAO Economy!** 🔖
 

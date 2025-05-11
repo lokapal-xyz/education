@@ -5,7 +5,7 @@ title: 'Member Retention Strategies'
 weight: 76_000
 ---
 
-Sustaining long-term engagement is just as important as attracting new members. A DAO that struggles with high turnover or inactive participants risks becoming ineffective in governance and decision-making. Let's explore key strategies to retain members, maintain motivation, and foster a strong sense of community.  
+Sustaining long-term engagement is just as important as attracting new members. A DAO that struggles with high turnover or inactive participants risks becoming ineffective in governance and decision-making.
 
 ---  
 
@@ -60,10 +60,4 @@ Tracking engagement data helps DAOs refine their retention approaches.
 - **Participation trends** – Tracking active voters and contributors.  
 - **Exit interviews** – Understanding why members leave or disengage.  
 - **Regular feedback loops** – Community surveys and open discussions.  
-
----  
-
-## **Final Thoughts**
-
-By implementing these retention strategies, DAOs can build strong, committed communities, ensuring long-term sustainability and active participation.  
 

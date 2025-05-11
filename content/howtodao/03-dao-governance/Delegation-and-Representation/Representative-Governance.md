@@ -31,13 +31,6 @@ However, delegation of decision-making power requires strong accountability meas
 - **Cons:** Risk of power concentration if accountability is weak.  
 - **Use Case Example:** DAOs managing protocol upgrades, funding allocations, or legal compliance.  
 
-### **Delegate-Based Governance (Liquid Representative Democracy)**  
-- Members elect delegates who vote on their behalf.  
-- Delegates can be revoked or changed at any time (similar to liquid democracy).  
-- **Pros:** Balances decentralization with expert-driven decisions.  
-- **Cons:** Delegates may accumulate excessive influence over time.  
-- **Use Case Example:** DAOs using delegated voting models to improve governance participation.  
-
 ### **Multi-Chamber Governance (Bicameral or Multi-Layered Structures)**  
 - Governance is split into multiple groups with distinct roles.  
 - One chamber (e.g., token holders) proposes initiatives, while another chamber (e.g., elected representatives) approves or refines them.  
@@ -74,10 +67,4 @@ To prevent power centralization, DAOs implementing representative governance sho
 | **Low Accountability** | Introduce voting-based removal mechanisms for underperforming representatives. |  
 | **Lack of Community Trust** | Ensure open communication, transparency reports, and regular feedback cycles. |  
 | **Voter Apathy in Elections** | Implement incentives for participation (e.g., staking rewards, token-weighted voting). |  
-
----
-
-## **Final Thoughts**  
-
-While representative governance can enhance DAO decision-making, careful design is crucial to prevent power centralization and disconnection from the community. DAOs must balance efficiency, expertise, and decentralization by implementing robust accountability mechanisms, term limits, and transparency requirements.  
 

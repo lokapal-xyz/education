@@ -7,8 +7,6 @@ weight: 20_000
 
 As DAOs have evolved, certain frameworks, platforms, and tools have become widely adopted due to their reliability, security, and community support. These industry standards provide time-tested solutions for governance, treasury management, and decision-making, reducing the need for DAOs to build systems from scratch.  
 
-This article explores the most commonly used DAO frameworks and platforms, analyzing their core features and how they fit into different governance models.  
-
 ---
 
 ## **Why Industry Standards Matter**  
@@ -84,6 +82,4 @@ Some DAOs use a mix of these tools, combining a Gnosis Safe treasury with Compou
 ## **Final Thoughts**  
 
 Industry standards provide DAOs with reliable, proven governance models that can be adopted as-is or customized to fit specific needs. While these frameworks streamline DAO creation and governance, each has its own trade-offs, and choosing the right one depends on a DAO’s objectives, security needs, and governance philosophy.  
-
-By leveraging existing industry standards, DAOs can reduce risk, improve efficiency, and focus on innovation rather than reinventing governance from scratch.  
 

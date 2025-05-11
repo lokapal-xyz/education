@@ -5,7 +5,7 @@ title: 'Sustainable Funding Models for DAOs'
 weight: 69_000
 ---
 
-DAOs require sustainable funding to operate, grow, and reward contributors. Unlike traditional organizations, DAOs often rely on on-chain mechanisms and community-driven financial models to sustain themselves. Let's explore different funding strategies, from treasury reserves and protocol fees to grants, token sales, and venture capital, while addressing the challenge of balancing short-term liquidity needs with long-term sustainability.  
+DAOs require sustainable funding to operate, grow, and reward contributors. Unlike traditional organizations, DAOs often rely on on-chain mechanisms and community-driven financial models to sustain themselves.
 
 ---
 
@@ -96,15 +96,4 @@ To remain solvent while planning for the future, DAOs must balance:
   - Implement funding schedules to avoid sudden treasury depletion.  
   - Use vesting mechanisms for contributor rewards.  
   - Set up transparent budget proposals for efficient fund allocation.  
-
----
-
-## **Final Thoughts**  
-
-Sustainable funding ensures a DAO’s long-term viability. The best DAOs use a mix of funding models rather than relying on a single revenue source:
-
-- Diversify funding sources beyond native tokens.  
-- Leverage protocol fees and revenue-generating services.  
-- Secure grants and external funding without compromising decentralization.  
-- Use treasury investments wisely to generate yield sustainably.  
 

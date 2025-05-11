@@ -5,7 +5,7 @@ title: 'On-Chain vs Off-Chain Voting'
 weight: 46_000
 ---
 
-Voting is a core governance mechanism for DAOs, determining everything from protocol upgrades to treasury management. However, DAOs must choose between on-chain and off-chain voting, each with its own trade-offs in terms of security, transparency, cost, and scalability. Let's explore how these voting methods work, their advantages and disadvantages, and when to use each approach.  
+Voting is a core governance mechanism for DAOs, determining everything from protocol upgrades to treasury management. However, DAOs must choose between on-chain and off-chain voting, each with its own trade-offs in terms of security, transparency, cost, and scalability.  
 
 ---
 
@@ -98,14 +98,4 @@ Since neither system is perfect, many DAOs use hybrid governance models:
 - If security is the priority, use on-chain voting for key decisions.  
 - If participation matters more, use off-chain voting to encourage engagement.  
 - If balancing both, consider a hybrid model where off-chain votes guide on-chain execution.  
-
----
-
-## **Final Thoughts**  
-
-- **On-chain** voting ensures security and transparency but is costly and slow.
-- **Off-chain** voting is faster and more inclusive but requires external enforcement.  
-- **Hybrid models** combine both for a scalable and secure governance framework.
-
-By understanding these trade-offs, DAOs can design governance systems that maximize both efficiency and legitimacy.  
 

@@ -22,6 +22,8 @@ The answers to these questions are still unwritten, and that is the most excitin
 
 The journey does not end here—it continues with every vote cast, every proposal submitted, every governance framework tested, and every innovation introduced. The future of DAOs is still being built, and it is up to all of us to shape it.
 
+---
+
 🔖 **You finished DAO Research!** 🔖
 
 **And...**

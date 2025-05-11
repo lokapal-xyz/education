@@ -11,8 +11,6 @@ Multisignature (multisig) wallets play a key role in DAO governance by ensuring 
 - **Security and Decentralization Benefits** – Why DAOs rely on multisig governance.  
 - **Implementation Considerations** – Key factors when designing a multisig system.  
 
-By requiring multiple signers to approve transactions or governance changes, multisigs reduce centralization risks while enhancing security and accountability.  
-
 ---
 
 ## **Understanding Multisig Wallets in DAOs**  
@@ -64,6 +62,4 @@ DAOs must carefully design their multisig governance structures to balance secur
 ## **Final Thoughts**  
 
 Multisig governance enhances security, decentralization, and accountability within DAOs. However, poor design or mismanagement can introduce bottlenecks, inefficiencies, and vulnerabilities.  
-
-A well-structured multisig system should be transparent, adaptable, and strategically aligned with the DAO’s long-term governance model.  
 

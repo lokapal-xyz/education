@@ -5,7 +5,7 @@ title: 'Quorums, Voting Thresholds, and Execution Mechanics'
 weight: 50_000
 ---
 
-Ensuring that governance decisions reflect the will of the community requires well-defined quorums and voting thresholds. These parameters determine how many participants must be involved and what level of support is needed for a proposal to pass. Let's explore quorum requirements, voting thresholds, and execution mechanics, along with their impact on governance effectiveness.  
+Ensuring that governance decisions reflect the will of the community requires well-defined quorums and voting thresholds. These parameters determine how many participants must be involved and what level of support is needed for a proposal to pass.
 
 ---
 

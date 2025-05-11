@@ -5,7 +5,7 @@ title: 'Role of Social Reputation and Off-Chain Engagement'
 weight: 79_000
 ---
 
-Reputation in a DAO extends beyond on-chain activity. Off-chain engagement—such as active participation in discussions, contributions to projects, and community leadership—plays a critical role in establishing trust and influence. Let's explore how social reputation is built, recognized, and leveraged in DAO governance.  
+Reputation in a DAO extends beyond on-chain activity. Off-chain engagement—such as active participation in discussions, contributions to projects, and community leadership—plays a critical role in establishing trust and influence.
 
 ---  
 
@@ -52,10 +52,4 @@ While off-chain engagement is valuable, it also presents challenges:
 - Transparent contribution tracking (e.g., governance forums, Discord logs).  
 - Community-driven reputation scoring (e.g., quadratic voting on trusted members).  
 - Combining reputation with on-chain activity to prevent manipulation.  
-
----  
-
-## **Final Thoughts**  
-
-Off-chain engagement is a crucial component of DAO reputation, shaping trust, influence, and governance participation. By recognizing and integrating social reputation effectively, DAOs can create inclusive and resilient governance systems that extend beyond token-based decision-making.  
 

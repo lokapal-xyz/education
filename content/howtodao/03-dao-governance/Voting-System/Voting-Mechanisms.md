@@ -5,7 +5,7 @@ title: 'Types of Voting Mechanisms'
 weight: 45_000
 ---
 
-Voting is the foundation of decentralized governance, allowing stakeholders to influence decisions, allocate resources, and shape the future of a DAO. However, different voting mechanisms have varying levels of fairness, security, and resistance to manipulation. Let's explore common DAO voting mechanisms, highlighting their advantages, drawbacks, and best use cases.  
+Voting is the foundation of decentralized governance, allowing stakeholders to influence decisions, allocate resources, and shape the future of a DAO. However, different voting mechanisms have varying levels of fairness, security, and resistance to manipulation.  
 
 ---
 
@@ -157,7 +157,7 @@ Voting is the foundation of decentralized governance, allowing stakeholders to i
 - Useful for selecting candidates or multi-option proposals.  
 
 ### **Cons**  
-- More complex than simple voting – Requires additional computation.  
+- More complex than single voting – Requires additional computation.  
 - May not be ideal for binary decisions – Works better for multi-choice votes.  
 - Potential for strategic voting – Voters may manipulate rankings.  
 
@@ -181,16 +181,9 @@ Different DAOs require different voting models depending on size, governance nee
 | **Delegated Voting** | Passive governance participation | Centralization risks |  
 | **Ranked-Choice Voting** | Multi-option decisions | Computational complexity |  
 
-DAOs should evaluate the size of their community, security concerns, and governance goals before selecting a voting mechanism. Some DAOs even use hybrid approaches to balance strengths and weaknesses.  
-
 ---
 
 ## **Final Thoughts**  
-
-- **Token-based** voting is the most common but has plutocratic risks.
-- **Quadratic** voting and conviction voting help balance power dynamics.  
-- **Holographic** consensus and delegated voting improve scalability.
-- **Ranked-choice** voting is ideal for elections and multi-option decisions.
 
 DAOs should adopt governance models that align with their mission, decentralization goals, and community engagement levels. Understanding these mechanisms allows DAOs to design fair, effective, and sustainable governance systems.  
 

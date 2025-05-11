@@ -5,7 +5,7 @@ title: 'Diversification Strategies to Mitigate Financial Risks'
 weight: 63_000
 ---
 
-Effective treasury diversification is critical for DAO financial stability, reducing exposure to market volatility and unforeseen risks. By spreading funds across multiple assets, protocols, and strategies, DAOs can safeguard their long-term financial health. Let's explore key diversification tactics DAOs can use to minimize risk and ensure treasury resilience.  
+Effective treasury diversification is critical for DAO financial stability, reducing exposure to market volatility and unforeseen risks. By spreading funds across multiple assets, protocols, and strategies, DAOs can safeguard their long-term financial health. 
 
 ---
 

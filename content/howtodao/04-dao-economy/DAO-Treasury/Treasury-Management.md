@@ -5,7 +5,7 @@ title: 'Treasury Management Strategies'
 weight: 61_000
 ---
 
-A DAO’s treasury is its financial backbone, funding operations, development, grants, and community incentives. Effective treasury management ensures long-term sustainability, prevents fund mismanagement, and aligns spending with the DAO’s goals. Let's explore key treasury management strategies, covering budgeting, fund allocation, financial transparency, and governance oversight.  
+A DAO’s treasury is its financial backbone, funding operations, development, grants, and community incentives. Effective treasury management ensures long-term sustainability, prevents fund mismanagement, and aligns spending with the DAO’s goals. 
 
 ---
 

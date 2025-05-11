@@ -5,7 +5,7 @@ title: 'Operational Best Practices'
 weight: 91_000
 ---
 
-Securing a DAO’s funds and governance mechanisms starts with proper key management and multisig configurations. Without robust security measures, DAOs risk compromised private keys, governance takeovers, and voting manipulation. Let's explore best practices for secure key storage, multisig implementations, and resilient voting mechanisms.  
+Securing a DAO’s funds and governance mechanisms starts with proper key management and multisig configurations. Without robust security measures, DAOs risk compromised private keys, governance takeovers, and voting manipulation.
 
 ---
 

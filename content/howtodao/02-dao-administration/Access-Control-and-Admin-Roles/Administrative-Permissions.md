@@ -73,5 +73,3 @@ Revoking permissions is just as important as granting them. Outdated, compromise
 
 A DAO’s security heavily depends on who controls administrative permissions. By implementing robust assignment, monitoring, and revocation mechanisms, DAOs can prevent governance exploits, insider risks, and operational failures.  
 
-A transparent and well-audited permission system ensures that only trusted participants hold critical administrative roles, safeguarding the integrity of the DAO.  
-

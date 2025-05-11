@@ -60,5 +60,7 @@ To ensure continuous improvement, DAOs should develop a security playbook that i
 
 A strong post-mortem process is critical for learning from security breaches, preventing future attacks, and maintaining community trust. By systematically analyzing failures, DAOs can build stronger security frameworks and governance models that adapt to evolving threats.  
 
+---
+
 🔖 **You finished DAO Security!** 🔖
 

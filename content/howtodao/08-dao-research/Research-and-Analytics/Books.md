@@ -5,7 +5,7 @@ title: 'Books and Comprehensive Guides on DAOs'
 weight: 127_000
 ---
 
-Books and in-depth guides provide a structured approach to understanding DAOs, bridging academic theory and real-world implementation. This section highlights key resources that explore DAO design, governance, and strategy from both technical and operational perspectives.  
+Books and in-depth guides provide a structured approach to understanding DAOs, bridging academic theory and real-world implementation. Let's highlight key resources that explore DAO design, governance, and strategy from both technical and operational perspectives.  
 
 ---
 
@@ -67,10 +67,4 @@ These guides offer practical frameworks for building DAOs, selecting governance 
 
 - **Commitment to Free and Open Access:**  
   Lokapal is committed to maintaining HowToDAO as a free and open resource for the DAO community, ensuring that practical knowledge remains accessible to all.  
-
----
-
-## **Final Thoughts**  
-
-DAO-related books and guides are essential for understanding, designing, and improving decentralized governance models. Whether through traditional books, structured guides, or open-source initiatives, these resources empower DAO builders, researchers, and participants to navigate the evolving landscape of decentralized governance.  
 

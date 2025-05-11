@@ -5,7 +5,7 @@ title: 'Exit Options'
 weight: 59_000
 ---
 
-Not all conflicts within a DAO can be resolved through governance processes alone. In some cases, members may need a structured way to exit the organization without causing instability or financial loss. Let's explore different exit mechanisms including rage-quit functions, governance forks, and buyout options, which allow members to withdraw, split, or disengage from the DAO while minimizing harm to the broader community.  
+DAO members may need a structured way to exit the organization without causing instability or financial loss. Let's explore different exit mechanisms including rage-quit functions, governance forks, and buyout options, which allow members to withdraw, split, or disengage from the DAO while minimizing harm to the broader community.  
 
 ---
 
@@ -66,12 +66,6 @@ Exit options serve several key purposes:
   - Balance flexibility with financial security to avoid governance exploitation.  
   - Provide clear guidelines so members understand their exit rights before joining.  
 
-- **Example:** MetaCartel Ventures has used a rage-quit mechanism with vesting rules, preventing abuse while ensuring fair exits.  
-
 ---
-
-## **Final Thoughts**  
-
-Exit options are essential for DAO sustainability and governance stability. By providing structured ways for members to leave—whether through rage-quit, governance forks, buybacks, or vesting schedules—DAOs can resolve disputes peacefully and prevent governance paralysis.  
 
 🔖 **You finished DAO Governance!** 🔖

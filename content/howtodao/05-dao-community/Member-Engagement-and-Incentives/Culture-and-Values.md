@@ -5,7 +5,7 @@ title: 'Community Culture and Values'
 weight: 77_000
 ---
 
-A strong, shared culture is the foundation of a thriving DAO. Culture and values define how members interact, make decisions, and contribute to the organization’s long-term vision. Let's explore the importance of cultivating a transparent, inclusive, and collaborative environment, ensuring that all members feel a sense of ownership and belonging.  
+A strong, shared culture is the foundation of a thriving DAO. Culture and values define how members interact, make decisions, and contribute to the organization’s long-term vision.
 
 ---  
 
