@@ -93,16 +93,19 @@ outputs:
 # For more information on menus, see the Hugo wiki page.
 menu:
   main:
+    - identifier: glossary
+      name: 📜Glossary
+      url: /glossary/
+      weight: 1
     - identifier: search
       name: 💬Search
       url: /search/
-      weight: 1
+      weight: 2
     - identifier: about
       name: 🪧About
       url: /about/
-      weight: 2
+      weight: 3
     - identifier: contact
       name: 🖱️Contact
       url: /contact/
-      weight: 3
-
+      weight: 4

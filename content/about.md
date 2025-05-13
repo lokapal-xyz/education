@@ -8,22 +8,6 @@ HowToDAO is the educational initiative of Lokapal, designed to make decentralize
 
 ---
 
-## Additional Resources
-
-📜**[LICENSE](../license/)** – Open-source license details.  
-
-🔐**[SECURITY](../security/)** – Security disclaimer and best practices.  
-
-🛠**[CONTRIBUTING](../contributing/)** – Guidelines for contributing to the project.  
-
-💬**[DISCUSSIONS](https://github.com/lokapal-xyz/education/discussions)** – Join the conversation, ask questions, and contribute to discussions.
-
-🤝**[SUPPORT](../support/)** – How to support or collaborate on the project.  
-
-📖**[GLOSSARY](../glossary/)** – Definitions and explanations of key terms and concepts used in the project.
-
----
-
 ## Security Disclaimer
 
 This repository may contain or redirect to example implementations of DAO governance configurations designed for educational purposes only. The code has not been formally audited or reviewed for production use. It is strongly recommended that you conduct thorough testing, code audits, and security reviews before using it in a live environment.
