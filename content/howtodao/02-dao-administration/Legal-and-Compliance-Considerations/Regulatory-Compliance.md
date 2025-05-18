@@ -34,7 +34,7 @@ While DAOs aim for decentralization, many adopt legal wrappers to engage with th
 Legal wrappers can help DAOs sign contracts, hold assets, and limit legal liabilities.  
 
 ### **Treasury and Financial Compliance**  
-DAOs managing significant funds must comply with financial regulations, such as:  
+DAOs managing significant funds could be forced to comply with financial regulations, such as:  
 
 - **Anti-Money Laundering (AML) and Know Your Customer (KYC)**: Some jurisdictions may require DAOs to implement identity verification for members handling treasury transactions.  
 - **Taxation Strategies**: DAOs earning revenue or distributing funds may need to report taxable income and pay applicable taxes in certain jurisdictions.  
@@ -63,7 +63,7 @@ Privacy-conscious DAOs can leverage zero-knowledge proofs or decentralized ident
 
 ## **Securities Laws and Token Compliance**  
 
-Tokenized governance and financial incentives often place DAOs under securities laws, particularly in the U.S. and EU. Key considerations include:  
+Tokenized governance and financial incentives may place DAOs under securities laws, particularly in the U.S. and EU. Key considerations include:  
 
 - **The Howey Test (U.S.)**: Determines whether a DAO token qualifies as a security based on investment criteria.  
 - **Regulatory Oversight (SEC, CFTC, ESMA, etc.)**: Different regulators may classify DAO tokens as securities, commodities, or digital assets.  

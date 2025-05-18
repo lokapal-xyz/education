@@ -16,7 +16,7 @@ This section explores the different models and tools available for DAO design:
   We’ll look at utility libraries such as OpenZeppelin’s Governance and Access Control contracts, which offer pre-built, secure components for integrating governance features into your DAO architecture.
 
 - **Custom-Built DAO Architectures and Novel Governance Models**  
-  This section will also cover custom-designed DAO architectures and emerging governance models that push the boundaries of traditional DAO frameworks. These offer unique features or solve new problems in decentralized governance.
+  This section will cover custom-designed DAO architectures and emerging governance models that push the boundaries of traditional DAO frameworks. These offer unique features or solve new problems in decentralized governance.
 
 - **No-Code and Low-Code DAO Creation Tools**  
   For those who want to build a DAO with minimal coding, we’ll explore no-code and low-code platforms that simplify the creation process. These tools are designed to empower individuals and communities to launch DAOs without extensive technical knowledge.

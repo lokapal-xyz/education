@@ -69,7 +69,7 @@ DAOs with global communities may need localized governance structures to address
 - **Better resource allocation** – Funds are used effectively in local contexts.  
 
 ### **Example: ENS DAO Local Chapters**  
-- ENS DAO has explored regional governance models to foster local engagement and adoption.  
+- ENS DAO has explored with regional governance models to foster local engagement and adoption.  
 
 ---
 

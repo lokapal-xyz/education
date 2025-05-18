@@ -63,7 +63,7 @@ A flat governance structure gives equal participation rights to all members.
 
 ## **Comparing Hierarchical and Flat Models**  
 
-| Feature            | Hierarchical Model  | Flat Model |
+| **Feature**            | **Hierarchical Model**  | **Flat Model** |
 |-------------------|------------------|-----------|
 | **Decentralization** | Lower  | Higher |
 | **Efficiency** | Higher | Lower |

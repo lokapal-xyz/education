@@ -24,7 +24,7 @@ The journey does not end here—it continues with every vote cast, every proposa
 
 ---
 
-🔖 **You finished DAO Research!** 🔖
+🔖 **You finished DAO Perspectives!** 🔖
 
 **And...**
 

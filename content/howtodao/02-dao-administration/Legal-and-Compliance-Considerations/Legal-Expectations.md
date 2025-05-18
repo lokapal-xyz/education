@@ -15,7 +15,7 @@ Traditional businesses rely on contracts to formalize agreements. When engaging 
 
 ### **Key Considerations for DAO Contracts**  
 - **Signatories and Representation**: Who has the authority to enter into agreements on behalf of the DAO?  
-- **Smart Contract vs. Legal Contract**: Some DAOs rely on smart contracts, but these may not always be legally binding under traditional law. Hybrid models integrating on-chain execution with off-chain legal documents can bridge this gap.  
+- **Smart Contract vs. Legal Contract**: DAOs usually rely on smart contracts, but these may not always be legally binding under traditional law. Hybrid models integrating on-chain execution with off-chain legal documents can bridge this gap.  
 - **Dispute Resolution**: Traditional contracts rely on courts, while DAOs may prefer arbitration or decentralized dispute resolution mechanisms (e.g., Kleros).  
 - **Governing Law**: A contract with a DAO should specify which jurisdiction’s laws apply to avoid legal ambiguity.  
 

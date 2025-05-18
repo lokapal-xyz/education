@@ -42,8 +42,8 @@ OpenZeppelin’s Governor contract provides a secure, modular framework for toke
 ### **OpenZeppelin Access Control**  
 Access control is critical for managing permissions and restricting actions within a DAO’s smart contract system. OpenZeppelin offers:  
 
+- **Ownable (`Ownable.sol`)** – A single owner or multisig controls permissions.  
 - **Role-based access control (`AccessControl.sol`)** – Assigns specific roles (e.g., admin, proposer, executor) with different privileges.  
-- **Ownable (`Ownable.sol`)** – A simpler alternative, where a single owner or multisig controls permissions.  
 
 *Use Case:* Useful for managing multi-signature wallets, execution layers, and treasury roles.  
 

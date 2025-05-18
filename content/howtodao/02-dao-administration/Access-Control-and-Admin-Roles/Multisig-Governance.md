@@ -5,11 +5,7 @@ title: 'Multisig Governance Structures'
 weight: 30_000
 ---
 
-Multisignature (multisig) wallets play a key role in DAO governance by ensuring that no single party has unilateral control over critical actions. This section covers:  
-
-- **How Multisig Works** – Basics of multisig wallet setups.  
-- **Security and Decentralization Benefits** – Why DAOs rely on multisig governance.  
-- **Implementation Considerations** – Key factors when designing a multisig system.  
+Multisignature (multisig) wallets play a key role in DAO governance by ensuring that no single party has unilateral control over critical actions. 
 
 ---
 

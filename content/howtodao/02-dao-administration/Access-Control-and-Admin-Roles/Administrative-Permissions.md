@@ -11,8 +11,6 @@ Ensuring secure and efficient management of administrative roles is critical for
 - **Permission Management** – Monitoring and adjusting access as needed.  
 - **Revocation Mechanisms** – Safeguarding against misuse and minimizing risks.  
 
-A well-structured permission system ensures operational efficiency while preventing centralization risks and insider threats.  
-
 ---
 
 ## **Assigning Administrative Roles**  

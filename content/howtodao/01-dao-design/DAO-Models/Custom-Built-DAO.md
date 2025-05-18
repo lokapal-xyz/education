@@ -75,7 +75,7 @@ Quadratic voting (QV) and other identity-based governance mechanisms aim to redu
 ## **Examples of Custom DAO Architectures**  
 
 | **DAO Model** | **Project Example** | **Key Innovation** |
-|--------------|-----------------|----------------|
+|--------------|:---------------:|----------------|
 | **Modular DAO Design** | Gnosis Safe Zodiac | Enables governance add-ons via modular extensions. |
 | **Hybrid Governance (Council + Token Holders)** | MakerDAO | Uses governance facilitators and delegates power to reduce inefficiency. |
 | **Non-Token Governance (Reputation-Based)** | Coordinape | Allocates governance power based on peer voting and contributions. |

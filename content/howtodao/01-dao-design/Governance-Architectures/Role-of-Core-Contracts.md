@@ -20,7 +20,7 @@ Core contracts form the backbone of a DAO, handling its most fundamental operati
 ### **Key Considerations for Core Contracts:**  
 - **Security and Immutability**: Since these contracts handle critical DAO functions, they are often designed to be immutable or upgradable via carefully controlled mechanisms.  
 - **Minimalism**: Many DAOs keep core contracts as simple as possible to reduce attack surfaces and ensure longevity.  
-- **Interoperability**: Core contracts should allow interaction with external services, such as off-chain voting tools or bridges for cross-chain governance.  
+- **Interoperability**: Core contracts should consider interaction with external services, such as off-chain voting tools or bridges for cross-chain governance.  
 
 ---
 
@@ -58,7 +58,7 @@ Governance extensions introduce advanced decision-making mechanisms beyond simpl
 - Allows members to delegate votes to trusted representatives, improving participation without requiring constant voter engagement.  
 
 #### **Quadratic Voting**  
-- Weighs votes based on individual preferences, reducing the influence of large token holders while amplifying community sentiment.  
+- Weighs votes based on individual participation, reducing the influence of large token holders while amplifying community sentiment.  
 
 #### **Proposal Filtering & Prioritization**  
 - Uses reputation systems or staking mechanisms to prevent spam and highlight high-quality proposals.  

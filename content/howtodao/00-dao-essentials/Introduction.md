@@ -29,7 +29,7 @@ The typical lifecycle of a DAO includes:
 2. **Funding**: Initial token distribution occurs through various means (airdrops, token sales, contributor rewards)
 3. **Governance**: Members submit proposals for changes or actions, followed by community voting
 4. **Execution**: Approved proposals are automatically executed through smart contracts or by designated multisig wallets
-5. **Evolution**: The DAO can modify its own rules through governance, allowing it to adapt over time
+5. **Evolution**: The DAO can modify its own rules through governance, allowing it to adapt over time.
 
 Governance models vary widely, from one-token-one-vote systems to quadratic voting, reputation-based systems, or delegated voting. Many DAOs implement timelock mechanisms and quorum requirements to prevent hasty or low-participation decisions.
 

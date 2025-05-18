@@ -11,7 +11,7 @@ As DAOs grow in size and complexity, scaling governance becomes a challenge. Lar
 
 ## **What Are SubDAOs?**  
 
-A SubDAO is a governance structure that delegates specific responsibilities to a smaller unit within a larger DAO. Instead of requiring all members to vote on every decision, a DAO can assign tasks, funding, or governance authority to SubDAOs that specialize in particular areas.  
+A SubDAO is a governance structure that holds specific responsibilities as a smaller unit within a larger DAO. Instead of requiring all members to vote on every decision, a DAO can assign tasks, funding, or governance authority to SubDAOs that specialize in particular areas.  
 
 SubDAOs can take various forms, such as:  
 

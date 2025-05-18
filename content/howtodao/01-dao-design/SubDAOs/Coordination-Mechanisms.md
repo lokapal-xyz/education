@@ -43,7 +43,7 @@ To achieve these goals, DAOs use various coordination mechanisms, which we’ll 
 - Transparency ensures alignment and accountability.  
 
 ### **DAO-to-SubDAO Communication Platforms**  
-- DAOs often establish dedicated communication channels (e.g., Discord, Discourse, Notion).  
+- DAOs often establish dedicated communication channels (e.g., Discourse, Notion).  
 - Some DAOs implement on-chain message passing for secure, trustless communication.  
 
 ### **Cross-DAO Representatives**  

@@ -50,7 +50,7 @@ Gnosis Safe is the most widely used multi-signature wallet in the DAO ecosystem,
 
 ### **Aragon**  
 
-Aragon provides a full-stack DAO creation suite, allowing DAOs to deploy governance structures with custom permissions, voting mechanisms, and dispute resolution. Aragon OS and Aragon DAO cater to different governance needs, from simple DAOs to complex organizations.  
+Aragon provides a full-stack DAO creation suite, allowing them to deploy governance structures with custom permissions, voting mechanisms, and dispute resolution. Aragon OS and Aragon DAO cater to different governance needs, from simple DAOs to complex organizations.  
 
 - **Strengths**: No-code governance setup, modular design, strong developer ecosystem.  
 - **Weaknesses**: Higher complexity compared to lightweight frameworks, reliance on Aragon’s infrastructure.  

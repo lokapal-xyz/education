@@ -12,7 +12,7 @@ One of the biggest challenges in designing a DAO is balancing decentralization, 
 ## Key Trade-offs in DAO Design  
 
 ### **Decentralization vs. Control**  
-- **Higher decentralization** ensures broad participation, resistance to corruption, and censorship resistance. However, it can slow decision-making and make coordination difficult.  
+- **Higher decentralization** ensures broad participation and stronger resistance to corruption and censorship. However, it can slow decision-making and make coordination difficult.  
 - **More centralized control** allows for faster execution and clearer accountability but can introduce risks of governance capture and reduced community engagement.  
 
 **Example:** A protocol’s DAO might let token holders vote on proposals (decentralized), but a core team executes them (controlled). Striking the right balance depends on the DAO’s goals and risk tolerance.  

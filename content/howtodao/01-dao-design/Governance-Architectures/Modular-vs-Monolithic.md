@@ -27,7 +27,7 @@ A monolithic contract structure places all core DAO functionalities within a sin
 ---
 
 ### **Modular Contract Design**  
-A modular approach breaks governance logic into multiple independent or semi-independent smart contracts that interact with each other. These modules can include core contracts, access control layers, voting mechanisms, treasury management, and external governance extensions.  
+A modular approach breaks governance logic into multiple independent or semi-independent smart contracts that interact with each other. These modules can include core contracts, access control layers, voting mechanisms, treasury management, and governance extensions.  
 
 #### **Benefits:**  
 - **Flexibility**: Individual components can be updated or replaced without affecting the entire system.  
