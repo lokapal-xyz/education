@@ -13,7 +13,7 @@ A strong, shared culture is the foundation of a thriving DAO. Culture and values
 
 Establishing clear values helps align community expectations and decision-making.  
 - **Transparency** – Open governance, financial accountability, and clear communication.  
-- **Inclusivity** – Ensuring diverse voices are heard and valued.  
+- **Openness** – Ensuring diverse voices are heard and valued.  
 - **Collaboration** – Encouraging teamwork over competition.  
 - **Autonomy** – Empowering individuals to take initiative.  
 
@@ -57,5 +57,5 @@ A DAO’s culture must adapt as the community grows while staying rooted in its 
 
 ## **Final Thoughts**
 
-A strong, well-defined culture builds trust, fosters engagement, and ensures that governance remains community-driven. By reinforcing shared values and cultural norms, DAOs can create environments where members feel empowered to contribute meaningfully.  
+A strong, well-defined culture builds trust, fosters engagement, and ensures that governance remains community-driven. By reinforcing shared values and cultural norms, DAOs can create environments where members feel motivated to contribute meaningfully.  
 

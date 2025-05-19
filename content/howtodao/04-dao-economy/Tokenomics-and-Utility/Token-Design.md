@@ -5,9 +5,7 @@ title: 'Token Design, Supply Models, and Staking Mechanisms'
 weight: 65_000
 ---
 
-A well-structured token design is the backbone of a DAO’s economy, influencing governance, incentives, and long-term sustainability. The design choices—ranging from supply models to staking mechanisms—shape how tokens retain value, engage holders, and drive participation. Let's explore:  
-- **Token supply models** (inflationary, deflationary, and fixed supply)  
-- **Staking mechanisms** and their impact on governance and security  
+A well-structured token design is the backbone of a DAO’s economy, influencing governance, incentives, and long-term sustainability. The design choices—ranging from supply models to staking mechanisms—shape how tokens retain value, engage holders, and drive participation. 
 
 ---
 

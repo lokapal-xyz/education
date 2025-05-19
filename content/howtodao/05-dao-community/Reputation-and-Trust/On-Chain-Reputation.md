@@ -43,7 +43,7 @@ DAOs can implement various on-chain reputation models to track and reward valuab
 
 Instead of traditional token-weighted governance, DAOs can use reputation-based governance, where voting power is earned rather than bought.  
 
-- **Quadratic Voting** – Reduces the influence of large token holders by weighting votes based on reputation.  
+- **Quadratic Voting** – Reduces the influence of large token holders by weighting votes based on participation.  
 - **Soulbound Tokens (SBTs)** – Non-transferable tokens representing verifiable contributions.  
 - **Reputation-Weighted Governance** – Votes are distributed based on on-chain activity rather than token holdings.  
 

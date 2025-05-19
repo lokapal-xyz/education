@@ -71,7 +71,7 @@ DAOs managing RWAs must decide who holds legal and technical control over assets
 | **Hybrid DAO-Legal Entity** | A legally registered entity manages assets on behalf of the DAO. | CityDAO’s Wyoming DAO LLC. |
 | **Custodian-Based Model** | Third-party custodians ensure legal asset holding and compliance. | Tokenized bonds, real estate investment DAOs. |
 
-- Smart contract-based treasury management ensures decentralization, but legal ownership may still require off-chain enforcement.  
+Smart contract-based treasury management ensures decentralization, but legal ownership may still require off-chain enforcement.  
 
 ---
 

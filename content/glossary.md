@@ -46,6 +46,11 @@ This glossary provides definitions of key terms related to Decentralized Autonom
 * **Exploit:**
     * An exploit is the deliberate use of a vulnerability in a smart contract or blockchain protocol. It can enable undesired actions like fund theft, vote manipulation, or abuse of internal functions.
 
+**F**
+
+* **Fork:**
+    * A process where a community or team splits the source code or governance system of a protocol into two separate paths. In DAOs, a governance fork happens when a group of members creates a new organization with different rules or priorities. Forks can be technical (e.g., codebase splits) or governance-related (e.g., social or ideological divisions).
+
 **G**
 
 * **Gas Fees:**
@@ -63,6 +68,11 @@ This glossary provides definitions of key terms related to Decentralized Autonom
 
 * **Liquidity Provisioning:**
     * The act of depositing tokens into a decentralized protocol (such as a DEX or lending market) to enable trading or borrowing. Liquidity provisioning alone may earn passive rewards like swap fees, but not necessarily governance tokens.
+
+**H**
+
+* **Hardware Wallet:**
+    * A physical device that securely stores private keys offline, protecting them from malware and online attacks. Used to sign transactions while keeping the keys isolated from internet-connected environments. Hardware wallets provide an extra layer of security compared to online or mobile wallets.
 
 **I**
 
@@ -91,11 +101,14 @@ This glossary provides definitions of key terms related to Decentralized Autonom
 
 **S**
 
+* **Slashing:**
+    * A mechanism used to penalize validators, delegates, or other protocol participants for malicious or negligent behavior. Slashing results in the partial or total loss of staked tokens. Common in Proof of Stake (PoS) systems or security staking models. Slashing is designed to align incentives and discourage dishonest behavior.
 * **Smart Contract:**
     * A self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code.
 * **Snapshot:**
     * A method of recording token balances at a particular block height, used for voting, airdrops, and other functions.
-
+* **Stablecoin:**
+    * A crypto asset designed to maintain a stable value, usually pegged to a fiat currency like the U.S. dollar. Stablecoins enable fast and predictable transactions without the typical volatility of other tokens.
 * **Stakeholder:**
     * A stakeholder is any individual or entity with a significant interest in the outcomes of a DAO, such as token holders, contributors, governance participants, or partner protocols. Token stakeholders specifically hold governance or utility tokens that give them rights to participate in decisions or share in protocol outcomes.
 

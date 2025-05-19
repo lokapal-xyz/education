@@ -42,7 +42,7 @@ A DAO’s tech stack can improve governance efficiency and member engagement.
 Ensuring that DAO members stay engaged and informed requires strategic communication efforts.  
 - **Regular Updates** – Weekly newsletters, governance reports, or town hall meetings.  
 - **Clear Documentation** – Accessible records of governance discussions and decisions.  
-- **Inclusive Language** – Ensuring all community members, regardless of experience, can participate.  
+- **Simple Language** – Ensuring all community members, regardless of experience, can participate.  
 - **Multilingual Support** – Translating key governance documents to encourage broader participation.  
 
 ---  

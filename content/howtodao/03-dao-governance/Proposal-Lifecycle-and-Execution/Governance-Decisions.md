@@ -31,7 +31,7 @@ Without automation, governance bottlenecks can occur, leading to unexecuted or d
 
 ### **Governor Contracts**  
 - Frameworks like OpenZeppelin’s Governor allow on-chain execution of proposals.  
-- Process:  
+- **Process:**  
   - Proposal is created and voted on.  
   - Once passed, the contract executes predefined actions (e.g., fund transfers, contract upgrades).  
   - Execution is transparent and recorded on-chain.  

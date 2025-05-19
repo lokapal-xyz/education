@@ -88,7 +88,7 @@ A smart contract wallet is a programmable account that can enforce security rule
 
 ## **Comparison: EOAs vs. Multisigs vs. Smart Contract Wallets**  
 
-| Feature            | EOA  | Multisig Wallet | Smart Contract Wallet |
+| **Feature**            | **EOA**  | **Multisig Wallet** | **Smart Contract Wallet** |
 |-------------------|------|----------------|----------------------|
 | **Security** | Low | High | Very High |
 | **Decentralization** | None | Moderate | High |
