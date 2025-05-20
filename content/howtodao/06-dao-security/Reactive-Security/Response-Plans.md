@@ -25,8 +25,9 @@ Security breaches can significantly impact a DAO’s governance, treasury, and o
 
 ## **Key Components of a DAO Security Response Plan**  
 
-### **Incident Detection & Verification**  
-**Identifying an active security breach.**  
+### **Incident Detection & Verification**
+
+- **Identifying an active security breach.**  
   - On-chain monitoring for suspicious transactions or governance activity.  
   - Alerts for treasury withdrawals, contract upgrades, or admin role changes.
   - Community reporting mechanisms—encouraging members to flag suspicious behavior.  
@@ -36,7 +37,8 @@ Security breaches can significantly impact a DAO’s governance, treasury, and o
 ---
 
 ### **Rapid Response Execution**  
-**Immediate steps to contain the breach.**  
+
+- **Immediate steps to contain the breach.**  
   - Pause contracts (if possible) to prevent further damage.  
   - Multisig emergency actions to block unauthorized transactions.  
   - Isolate compromised keys or accounts.
@@ -45,6 +47,7 @@ Security breaches can significantly impact a DAO’s governance, treasury, and o
 ---
 
 ### **Communication & Transparency**  
+
 **Keeping DAO members informed while preventing panic.**  
   - Clear, coordinated messaging via governance platforms, Discord, or forums.  
   - Avoid leaking sensitive exploit details while an attack is live.  
@@ -53,6 +56,7 @@ Security breaches can significantly impact a DAO’s governance, treasury, and o
 ---
 
 ### **Decision-Making & Emergency Governance**  
+
 **Deciding on critical actions quickly.**  
   - Pre-approved emergency measures (e.g., temporary governance freeze, rapid voting mechanisms).  
   - Defined leadership roles for incident response teams.  
@@ -61,6 +65,7 @@ Security breaches can significantly impact a DAO’s governance, treasury, and o
 ---
 
 ### **Post-Breach Analysis & Recovery**  
+
 **Learning from the incident and strengthening defenses.**  
   - Conduct a full post-mortem: root cause analysis, vulnerabilities exploited, governance failures.  
   - Implement security improvements: contract upgrades, better key management, governance reforms.  

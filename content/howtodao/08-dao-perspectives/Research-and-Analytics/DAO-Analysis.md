@@ -17,7 +17,7 @@ DAOs rely on data-driven insights to optimize governance, treasury management, a
 - **Security & Compliance** – Detect anomalies, governance attacks, or treasury mismanagement.  
 
 - **Example:**  
-    - A DAO with low voter turnout can use analytics to identify inactive members and refine its incentive mechanisms.  
+  - A DAO with low voter turnout can use analytics to identify inactive members and refine its incentive mechanisms.  
 
 ---
 
@@ -45,19 +45,19 @@ DAOs rely on data-driven insights to optimize governance, treasury management, a
 ## **Essential DAO Analytics Tools** 
 
 - **On-Chain Data Platforms**  
-    - Dune Analytics – SQL-based dashboards for DAO data insights.  
-    - Nansen – Tracks treasury movements and wallet behaviors.  
-    - DeepDAO – Provides governance participation metrics across DAOs.  
-    - Llama.xyz – Treasury management and spending analytics.  
+  - Dune Analytics – SQL-based dashboards for DAO data insights.  
+  - Nansen – Tracks treasury movements and wallet behaviors.  
+  - DeepDAO – Provides governance participation metrics across DAOs.  
+  - Llama.xyz – Treasury management and spending analytics.  
 
 - **Governance & Voting Trackers**  
-    - Tally – On-chain voting and delegate tracking.  
-    - Snapshot – Off-chain voting analysis and proposal trends.  
-    - Boardroom – Aggregates governance metrics from multiple DAOs.  
+  - Tally – On-chain voting and delegate tracking.  
+  - Snapshot – Off-chain voting analysis and proposal trends.  
+  - Boardroom – Aggregates governance metrics from multiple DAOs.  
 
 - **Treasury & Financial Analytics**  
-    - Token Terminal – Tracks DAO revenue, treasury health, and financial performance.  
-    - Messari Governor – DAO governance and treasury reporting.  
+  - Token Terminal – Tracks DAO revenue, treasury health, and financial performance.  
+  - Messari Governor – DAO governance and treasury reporting.  
 
 - **Custom-Built Dashboards**  
   - DAOs often create internal analytics dashboards using tools like:  

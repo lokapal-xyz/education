@@ -11,7 +11,7 @@ Books and in-depth guides provide a structured approach to understanding DAOs, b
 
 ## **Books on DAOs and Decentralized Governance**  
 
-- **Key Books:**  
+- **Notable Books:**  
   - [**"DAO - Decentralized Autonomous Organizations for Beginners" – Alex Anderson**](https://www.amazon.com/DAO-Decentralized-Organizations-Introduction-Organization-ebook/dp/B09DT9XF99)  
   Easy and simple introduction to DAOs.  
   - [**"The Infinite Machine" – Camila Russo**](https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet/dp/0062886142)  
@@ -61,7 +61,7 @@ These guides offer practical frameworks for building DAOs, selecting governance 
 
 
 - **Why It’s Valuable:**  
-  - **Freely accessible:** Anyone can use and reference the material without seeking permission under the [**MIT license**](../../../../license/).  
+  - **Freely accessible:** Anyone can use and reference the material without the need for membership or registration.  
   - **Engaged with the DAO community:** While not open to direct contributions, HowToDAO welcomes [**feedback**](../../../../contact/) and aims to be a trusted resource that evolves alongside DAO best practices.  
   - Integrated with [**DAO Horizons**](https://lokapal-xyz.github.io/research/) (for deeper research and analysis) and [**Conciliatorics**](https://lokapal-xyz.github.io/foundations/) (for the philosophical foundations of decentralization), ensuring a well-rounded perspective on DAOs.  
 

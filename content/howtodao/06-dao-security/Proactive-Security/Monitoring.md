@@ -12,8 +12,8 @@ Continuous monitoring and real-time alerts are essential for detecting and mitig
 ## **Why DAO Security Monitoring Matters**  
 
 - **Real-Time Threat Detection**  
-    - DAOs operate on transparent, open-source smart contracts, making them attractive targets for attackers.  
-    - A lack of real-time oversight can result in governance manipulation, fund drain exploits, or voting fraud.  
+  - DAOs operate on transparent, open-source smart contracts, making them attractive targets for attackers.  
+  - A lack of real-time oversight can result in governance manipulation, fund drain exploits, or voting fraud.  
 
 - **Proactive Defense**: Continuous monitoring + rapid alerting helps DAOs respond before catastrophic losses occur.  
 
@@ -25,7 +25,7 @@ Continuous monitoring and real-time alerts are essential for detecting and mitig
   - Monitor unusual contract interactions, large withdrawals, and suspicious function calls.  
   - Detect reentrancy attempts, flash loan manipulations, and governance exploits.  
 
-- **Tools**: OpenZeppelin Defender, Forta Network, Tenderly  
+- **Tools**: OpenZeppelin Defender, Forta Network, Tenderly.  
 
 ---
 
@@ -33,7 +33,7 @@ Continuous monitoring and real-time alerts are essential for detecting and mitig
   - Watch for abnormal voting patterns, flash loan-funded votes, or whale takeovers.  
   - Detect proposal spamming or governance jamming attempts.  
 
-- **Tools**: Snapshot, Tally, DAO governance dashboards  
+- **Tools**: Snapshot, Tally, DAO governance dashboards.  
 
 ---
 
@@ -48,7 +48,7 @@ Continuous monitoring and real-time alerts are essential for detecting and mitig
   - Monitor community sentiment, discussions of potential attacks, and covert coordination on forums.  
   - Track suspicious coordination in Discord, Telegram, and Twitter.  
 
-- **Tools**: AI-powered social monitoring tools (Arkham, Nansen AI)  
+- **Tools**: AI-powered social monitoring tools (Arkham, Nansen AI).  
 
 ---
 

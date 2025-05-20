@@ -19,6 +19,8 @@ Instead of trying to fit DAOs into existing legal categories, a new legal framew
 - Establish clear regulatory boundaries for governance, financial operations, and dispute resolution.  
 - Ensure tax compliance without undermining decentralization.  
 
+---
+
 ### **Lessons from Non-Profit Organizations**  
 A useful comparison is the evolution of non-profit organizations (NPOs). NPOs initially had ambiguous legal status, but over time, they gained specific legal recognition through legislative acts. For example:  
 - In the United States, the *Tax Reform Act of 1969* introduced Section 501(c)(3), providing a clear legal framework for charitable organizations.  
@@ -37,6 +39,8 @@ Just as businesses are integrating cryptocurrency payments, DAOs could evolve in
 - Sell products or services directly to consumers, either through online platforms or physical locations.  
 - Manage subscription-based services, where customers engage with a DAO-based community.  
 - Act as decentralized service providers, offering gig work, education, entertainment, and consulting.  
+
+---
 
 ### **Regulatory and Consumer Protection Considerations**  
 For DAOs to operate in a consumer-facing capacity, they will need to address:  
@@ -57,6 +61,8 @@ Just as remote and gig work became mainstream over time, DAO employment could fo
 - **Expansion beyond Web3** – More traditional roles (customer support, logistics, marketing) could become DAO-based.  
 - **Employment norms** – DAOs might establish employment contracts, salaries, and benefits, mirroring traditional labor structures.  
 - **Cross-border employment** – DAOs may serve as international employers, hiring talent without concern for geographic location.  
+
+---
 
 ### **Unionization and Labor Conflicts**  
 As DAOs become employers, they may clash with labor unions and employment regulators:  

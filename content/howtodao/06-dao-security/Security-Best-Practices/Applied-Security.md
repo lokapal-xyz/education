@@ -35,7 +35,7 @@ Ensuring the security of a DAO requires proactive measures such as audits, bug b
     - Transparent audit methodology.  
     - A strong track record of identifying vulnerabilities.  
 
-- **Top DAO Audit Firms**  
+- **Top Audit Firms**  
   - **OpenZeppelin** – Industry leader in smart contract audits.  
   - **Trail of Bits** – Advanced security research and tooling.  
   - **CertiK** – Automated and manual security analysis.  

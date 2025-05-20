@@ -5,7 +5,7 @@ title: 'Public Relations, Publicity, and Media Coverage'
 weight: 110_000
 ---
 
-Public perception plays a crucial role in the success of any DAO. While decentralization empowers communities, it also creates unique challenges in communication, reputation management, and public engagement. DAOs must navigate media coverage, establish effective public relations (PR) strategies, and generate meaningful publicity to strengthen their brand and attract new participants.  
+Public perception plays an important role in the success of any DAO. While decentralization empowers communities, it also creates unique challenges in communication, reputation management, and public engagement. DAOs must navigate media coverage, establish effective public relations (PR) strategies, and generate meaningful publicity to strengthen their brand and attract new participants.  
 
 ---  
 

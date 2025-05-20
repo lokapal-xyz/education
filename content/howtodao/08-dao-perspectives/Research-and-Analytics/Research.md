@@ -31,9 +31,9 @@ These whitepapers laid the groundwork for modern DAO infrastructure and helped i
 ## **Governance Models and Decision-Making in DAOs**  
 
 - **Key Research Areas:**  
-    - **On-chain vs. off-chain governance** – Comparing direct token voting and delegated governance.  
-    - **Quadratic voting & reputation-based systems** – Addressing token-weighted voting pitfalls.  
-    - **Voter participation and governance efficiency** – Studying governance fatigue and incentive design.  
+  - **On-chain vs. off-chain governance** – Comparing direct token voting and delegated governance.  
+  - **Quadratic voting & reputation-based systems** – Addressing token-weighted voting pitfalls.  
+  - **Voter participation and governance efficiency** – Studying governance fatigue and incentive design.  
 
 - **Notable Papers:**  
   - [**"Exploring Decentralized Autonomous Organization (DAO) Governance: An Integrative Literature Review."**](https://www.researchgate.net/publication/385694204_Exploring_Decentralized_Autonomous_Organization_DAO_Governance_An_integrative_literature_review)  

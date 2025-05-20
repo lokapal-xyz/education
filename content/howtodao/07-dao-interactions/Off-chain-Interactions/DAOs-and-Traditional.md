@@ -64,7 +64,7 @@ DAOs and traditional organizations are not necessarily in conflict; they can coe
 - **Enterprise DAOs** → Large organizations using DAOs for internal decision-making (e.g., voting on corporate policies).  
 
 ### **Regulatory Adaptation**  
-As DAOs become more prevalent, regulatory frameworks may evolve to incorporate DAO elements, allowing for legal DAO structures within traditional governance models.  
+As DAOs become more prevalent, regulatory frameworks may evolve to incorporate blockchain governance elements, allowing for legal DAO structures within traditional governance models.  
 
 ---
 

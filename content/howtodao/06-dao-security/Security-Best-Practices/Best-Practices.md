@@ -12,7 +12,7 @@ Securing a DAO’s funds and governance mechanisms starts with proper key manage
 ## **Secure Key Management**  
 
 - **Avoid Single Points of Failure**  
-    - Never rely on a single private key for treasury or governance actions.  
+  - Never rely on a single private key for treasury or governance actions.  
   - Use multisig wallets or threshold cryptography (e.g., Shamir’s Secret Sharing).  
 
 - **Hardware Wallets & Cold Storage**  

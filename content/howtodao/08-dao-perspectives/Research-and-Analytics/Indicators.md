@@ -12,11 +12,11 @@ Tracking governance participation is crucial for assessing a DAO's engagement, d
 ## **Key Metrics for Governance Participation** 
 
 - **Essential Metrics:**  
-    - **Voter Turnout Rate** – Percentage of eligible token holders who vote.  
-    - **Proposal Submission Frequency** – How often new governance proposals are created.  
-    - **Quorum Attainment Rate** – Percentage of proposals that reach the required quorum.  
-    - **Delegation Ratios** – How many votes are cast via delegation vs. direct voting.  
-    - **Repeat Participation** – Tracking whether the same members vote consistently.  
+  - **Voter Turnout Rate** – Percentage of eligible token holders who vote.  
+  - **Proposal Submission Frequency** – How often new governance proposals are created.  
+  - **Quorum Attainment Rate** – Percentage of proposals that reach the required quorum.  
+  - **Delegation Ratios** – How many votes are cast via delegation vs. direct voting.  
+  - **Repeat Participation** – Tracking whether the same members vote consistently.  
 
 - **Example Benchmark:**  
   - Healthy DAOs often see 10-30% voter turnout, while lower participation may indicate voter fatigue or governance inefficiencies.  
@@ -41,11 +41,11 @@ Tracking governance participation is crucial for assessing a DAO's engagement, d
 ## **Key Treasury Performance Metrics** 
 
 - **Essential Indicators:**  
-    - **Total Treasury Value (TTV)** – Overall worth of DAO-controlled assets.  
-    - **Asset Diversification Ratio** – Percentage breakdown across native tokens, stablecoins, and other assets.  
-    - **Liquidity Reserves** – Availability of liquid assets for operations and emergencies.  
-    - **Runway Estimation** – Number of months the DAO can sustain operations with current reserves.  
-    - **Return on Treasury (RoT)** – Profitability of treasury investments.  
+  - **Total Treasury Value (TTV)** – Overall worth of DAO-controlled assets.  
+  - **Asset Diversification Ratio** – Percentage breakdown across native tokens, stablecoins, and other assets.  
+  - **Liquidity Reserves** – Availability of liquid assets for operations and emergencies.  
+  - **Runway Estimation** – Number of months the DAO can sustain operations with current reserves.  
+  - **Return on Treasury (RoT)** – Profitability of treasury investments.  
 
 - **Example Benchmark:**  
   - A healthy DAO may target storing ~50% of assets in stablecoins to ensure liquidity and mitigate volatility risks.  

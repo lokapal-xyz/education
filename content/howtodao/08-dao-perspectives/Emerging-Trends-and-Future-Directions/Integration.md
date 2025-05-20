@@ -12,8 +12,8 @@ As DAOs evolve, they are integrating cutting-edge technologies to enhance govern
 ## **AI & Machine Learning in DAOs**
 
 - **AI-powered Proposal Analysis**  
-    - AI can analyze governance proposals, assess risks, and provide automated recommendations.  
-    - Used to detect governance attacks and filter spam proposals (e.g., Sybil-resistant voting systems).  
+  - AI can analyze governance proposals, assess risks, and provide automated recommendations.  
+  - Used to detect governance attacks and filter spam proposals (e.g., Sybil-resistant voting systems).  
 
 - **Sentiment Analysis for Community Governance**  
   - ML models can analyze forum discussions, social media, and voting patterns to gauge community sentiment.  

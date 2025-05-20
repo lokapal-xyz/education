@@ -12,11 +12,10 @@ A DAO’s governance system must be resilient enough to recover from security br
 ## **Why Governance Recovery Is Critical**  
 
 Governance vulnerabilities can be exploited in multiple ways:  
-
-   - **Malicious proposals** that drain the treasury or alter governance rules.  
-   - **51% attacks** where a hostile entity gains majority control.  
-   - **Stolen multisig keys** leading to unauthorized actions.  
-   - **Bribery or vote manipulation** that distorts decision-making.  
+- **Malicious proposals** that drain the treasury or alter governance rules.  
+- **51% attacks** where a hostile entity gains majority control.  
+- **Stolen multisig keys** leading to unauthorized actions.  
+- **Bribery or vote manipulation** that distorts decision-making.  
 
 Without recovery mechanisms, DAOs may struggle to undo harmful actions or restore trust.  
 

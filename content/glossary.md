@@ -37,6 +37,8 @@ This glossary provides definitions of key terms related to Decentralized Autonom
     * The process by which a DAO member assigns their voting power to another member or entity. This allows for more efficient governance and representation.
 * **DeFi (Decentralized Finance):**
     * Financial applications and services built on blockchain technology.
+* **Deployment:**
+    * The process of publishing and launching a smart contract on a blockchain network. Once deployed, the contract becomes available for interaction by users or other contracts.
 
 **E**
 
@@ -58,6 +60,16 @@ This glossary provides definitions of key terms related to Decentralized Autonom
 * **Governance:**
     * The rules and processes that determine how a DAO makes decisions and operates.
 
+**H**
+
+* **Hardware Wallet:**
+    * A physical device that securely stores private keys offline, protecting them from malware and online attacks. Used to sign transactions while keeping the keys isolated from internet-connected environments. Hardware wallets provide an extra layer of security compared to online or mobile wallets.
+
+**I**
+
+* **Interoperability:**
+    * The ability of different blockchain networks and DAOs to communicate and interact with each other.
+
 **L**
 
 * **Layer 2:**
@@ -69,15 +81,9 @@ This glossary provides definitions of key terms related to Decentralized Autonom
 * **Liquidity Provisioning:**
     * The act of depositing tokens into a decentralized protocol (such as a DEX or lending market) to enable trading or borrowing. Liquidity provisioning alone may earn passive rewards like swap fees, but not necessarily governance tokens.
 
-**H**
-
-* **Hardware Wallet:**
-    * A physical device that securely stores private keys offline, protecting them from malware and online attacks. Used to sign transactions while keeping the keys isolated from internet-connected environments. Hardware wallets provide an extra layer of security compared to online or mobile wallets.
-
-**I**
-
-* **Interoperability:**
-    * The ability of different blockchain networks and DAOs to communicate and interact with each other.
+**M**
+* **Mainnet:**
+    * The public, fully operational blockchain network where transactions carry real economic value. It’s the “live” environment for deploying smart contracts and managing digital assets.
 
 **O**
 
@@ -99,8 +105,12 @@ This glossary provides definitions of key terms related to Decentralized Autonom
 * **Reputation System:**
     * A mechanism for tracking and evaluating the contributions and behavior of DAO members, often used to incentivize participation and good governance.
 
-**S**
+* **Rug Pull:**
+    * A rug pull is a type of exit scam in which a project's developers or key actors abruptly withdraw liquidity or funds from a treasury, smart contract, or protocol—often leaving investors with worthless assets. Rug pulls are common in poorly audited or anonymous projects, especially in DeFi.
 
+**S**
+* **Seed Phrase:**
+    * A set of words, usually 12 or 24, used to recover access to a crypto wallet. It’s a human-readable representation of the master private key. It must be stored securely and never shared. Anyone with access to the seed phrase can control all assets in the wallet.
 * **Slashing:**
     * A mechanism used to penalize validators, delegates, or other protocol participants for malicious or negligent behavior. Slashing results in the partial or total loss of staked tokens. Common in Proof of Stake (PoS) systems or security staking models. Slashing is designed to align incentives and discourage dishonest behavior.
 * **Smart Contract:**

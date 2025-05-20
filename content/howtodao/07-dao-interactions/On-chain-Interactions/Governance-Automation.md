@@ -67,7 +67,7 @@ To ensure secure and effective governance automation, DAOs should follow best pr
 
 ### **Use Modular & Upgradeable Smart Contracts**  
 - Ensure flexibility while maintaining security.  
-- Upgrade paths should be governance-approved and time-locked.  
+- Upgrade paths should be governance-approved.  
 
 ### **Implement Security Safeguards**  
 - Timelocks for major governance actions.  
