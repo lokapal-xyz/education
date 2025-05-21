@@ -24,9 +24,4 @@ The journey does not end here—it continues with every vote cast, every proposa
 
 ---
 
-🔖 **You finished DAO Perspectives!** 🔖
-
-**And...**
-
-🔖🔖🔖 **You finished HowToDAO!** 🔖🔖🔖
-
+🔖 **You finished HowToDAO!** 🔖
